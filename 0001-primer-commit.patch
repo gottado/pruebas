@@ -1,0 +1,20 @@
+From 2cf9f75b0dafc0babd746736951a71e2e3010c5b Mon Sep 17 00:00:00 2001
+From: gottado <guillermo.ottado@gmail.com>
+Date: Thu, 30 Apr 2015 17:05:55 -0300
+Subject: [PATCH] primer commit
+
+---
+ readme.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 readme.md
+
+diff --git a/readme.md b/readme.md
+new file mode 100644
+index 0000000..e89c58e
+--- /dev/null
++++ b/readme.md
+@@ -0,0 +1 @@
++# pruebas
+-- 
+1.9.1
+
